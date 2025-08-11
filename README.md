@@ -2,9 +2,6 @@
 
 A recreation of the official Liverpool Football Club website homepage, built with HTML, CSS, and JavaScript.
 
-## 🖥️ Live Preview
-
-
 ## 🚀 Features
 
 - **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
@@ -132,14 +129,7 @@ The main color scheme can be modified in `style.css`:
 - Optimize images for web (WebP format recommended)
 
 ## 📸 Screenshots
-
-Add your website screenshots here to showcase different sections:
-
-- Homepage overview
-- Mobile responsive view
-- News section
-- Player statistics
-- Shop section
+<img width="1919" height="997" alt="Image" src="https://github.com/user-attachments/assets/cc560631-a1da-4414-a14f-65beb20f81c4" />
 
 ## 🤝 Contributing
 
